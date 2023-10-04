@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import BigInt from 'https://cdn.jsdelivr.net/gh/stdlib-js/bigint-ctor@deno/mod.js';
+import BigInt from 'https://cdn.jsdelivr.net/gh/stdlib-js/bigint-ctor@v0.1.1-deno/mod.js';
 ```
 
 #### BigInt( value )
@@ -95,7 +95,7 @@ TODO: document properties/methods
 
 ```javascript
 import hasBigIntSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-bigint-support@deno/mod.js';
-import BigInt from 'https://cdn.jsdelivr.net/gh/stdlib-js/bigint-ctor@deno/mod.js';
+import BigInt from 'https://cdn.jsdelivr.net/gh/stdlib-js/bigint-ctor@v0.1.1-deno/mod.js';
 
 var v;
 
