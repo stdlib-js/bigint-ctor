@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var hasBigIntSupport = require( '@stdlib/assert-has-bigint-support' );
 var isBigInt = require( '@stdlib/assert-is-bigint' ).isPrimitive;
 var pkg = require( './../package.json' ).name;
